@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.ismael.aula8softbluemenusactionbar.TestActivity">
+    <item android:id="@+id/action_settings" android:title="@string/action_settings"
+        android:orderInCategory="100" app:showAsAction="never"
+        />
+    <item android:id="@+id/act_1"
+        android:orderInCategory="100"
+        android:title="Câmera"
+        app:showAsAction="ifRoom|withText"
+        android:icon="@android:drawable/ic_menu_camera"/>
+    <item android:id="@+id/act_2"
+        android:orderInCategory="100"
+        android:title="Agenda"
+        app:showAsAction="ifRoom|withText"
+        android:icon="@android:drawable/ic_menu_agenda"/>
+    <item android:id="@+id/act_3"
+        android:orderInCategory="100"
+        android:title="Ligar"
+        app:showAsAction="ifRoom|withText"
+        android:icon="@android:drawable/ic_menu_call"/>
+</menu>

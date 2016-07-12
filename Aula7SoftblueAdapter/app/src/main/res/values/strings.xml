@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Aula 7 Softblue Adapter</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="produtos">
+        <item>Banana</item>
+        <item>Batata</item>
+        <item>Spaghetti</item>
+    </string-array>
+
+</resources>

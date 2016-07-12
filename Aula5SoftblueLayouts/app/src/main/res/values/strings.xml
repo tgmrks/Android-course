@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Aula 5 Softblue Layouts</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_linear_layout">LinearLayoutActivity</string>
+    <string name="title_activity_relative_layout">RelativeLayoutActivity</string>
+    <string name="pergunta1">Com qual linguagem de programação gostaria de trabalhar?</string>
+    <string name="pergunta2">Como gostaria de trabalhar?</string>
+    <string name="nao">Cancelar</string>
+    <string name="sim">Confirmar</string>
+    <string name="tipo1">Empregado</string>
+    <string name="tipo2">Empresa própria</string>
+    <string name="tipo3">Consultor autonômo</string>
+    <string name="lang3">Python para embarcados</string>
+    <string name="land2">ABAP (para SAP)</string>
+    <string name="land1">JAVA para Android</string>
+    <string name="title_activity_progress_bar">ProgressBarActivity</string>
+</resources>

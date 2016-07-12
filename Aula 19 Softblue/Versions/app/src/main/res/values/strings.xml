@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Versions</string>
+    <string name="txt_dados1">Dados 1</string>
+    <string name="txt_dados2">Dados 2</string>
+    <string name="txt_dados3">Dados 3</string>
+    <string name="txt_voltar">Voltar</string>
+
+</resources>

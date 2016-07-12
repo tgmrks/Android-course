@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Aula 7 Softblue ListFragment</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="alimentos_nomes">
+        <item>Café</item>
+        <item>Chá</item>
+        <item>Capuccino</item>
+        <item>Chocolate quente</item>
+    </string-array>
+    
+    <string-array name="alimentos_precos">
+        <item>2.5</item>
+        <item>3.0</item>
+        <item>4.2</item>
+        <item>3.3</item>
+    </string-array>
+
+</resources>

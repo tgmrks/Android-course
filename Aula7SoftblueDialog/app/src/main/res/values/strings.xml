@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Aula 7 Softblue Dialog</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="bandas">
+        <item>Underoath</item>
+        <item>We Are The Ocean</item>
+        <item>The Rumjacks</item>
+        <item>Metalica</item>
+        <item>Motorhead</item>
+    </string-array>
+
+</resources>
